@@ -1,0 +1,7 @@
+{
+  "name": "Claude Usage Bar",
+  "type": "app",
+  "entry": "build/ClaudeUsageBar.app",
+  "description": "Menüleisten-Widget: Claude-Sitzung und Wochenlimit in Prozent mit Reset-Zeit",
+  "tags": ["claude", "menubar", "usage"]
+}
